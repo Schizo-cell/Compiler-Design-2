@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765698317 source:c:\cdlf\string validation\main.cpp
+	<stdio.h>
+	<string.h>
+
+1765698317 source:c:\cdlf\string validation\string validation.cpp
+	<stdio.h>
+	<string.h>
+
