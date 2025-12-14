@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762674853 source:c:\users\student\pictures\readwrite\main.cpp
+	<iostream>
+	<fstream>
+
